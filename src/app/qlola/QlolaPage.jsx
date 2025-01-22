@@ -1,13 +1,13 @@
 /* eslint-disable no-unused-vars */
-import qlolaLogo from "../../assets/qlola/qlola-logo.png";
-import qlolaLogin from "../../assets/qlola/ss-login-qlola.png";
-import footerQlola from "../../assets/qlola/footer-qlola.png";
-import qlolaService from "../../assets/qlola/ss-service-qlola.png";
-import reactLogo from "../../assets/qlola/react-logo.png";
-import viteLogo from "../../assets/qlola/vite-logo.png";
-import githubLogo from "../../assets/qlola/github-logo.png";
-import tailwindLogo from "../../assets/qlola/tailwindcss-logo.png";
-import jsLogo from "../../assets/qlola/js-logo.png";
+import qlolaLogo from "@src/assets/qlola/qlola-logo.png";
+import qlolaLogin from "@src/assets/qlola/ss-login-qlola.png";
+import footerQlola from "@src/assets/qlola/footer-qlola.png";
+import qlolaService from "@src/assets/qlola/ss-service-qlola.png";
+import reactLogo from "@src/assets/qlola/react-logo.png";
+import viteLogo from "@src/assets/qlola/vite-logo.png";
+import githubLogo from "@src/assets/qlola/github-logo.png";
+import tailwindLogo from "@src/assets/qlola/tailwindcss-logo.png";
+import jsLogo from "@src/assets/qlola/js-logo.png";
 
 const QLolaPage = () => {
   const datas = {
